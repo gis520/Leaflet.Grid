@@ -3,6 +3,9 @@ Leaflet.Grid
 
 Display a grid overlay on a Leaflet map.
 
+![](./demo.png)
+
+
 Usage
 -----
 Leaflet.Grid needs some CSS to look pretty:
@@ -35,5 +38,8 @@ Ideas
 -----
  - Make center fixable
  - Wrapping of big longitudes
+
+
+
 
 
